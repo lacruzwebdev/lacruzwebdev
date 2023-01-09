@@ -7,7 +7,7 @@
 
 - 📫 ¡Contáctame! **hola@lacruzwedev.com**
 
-- ⚡ Fun fact **Me encanta Linux y el espacio <3**
+- 🐧 I use Arch btw
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
