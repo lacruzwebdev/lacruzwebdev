@@ -1,5 +1,5 @@
 <h1 align="center">¡Hey 👋! Soy N. Lacruz</h1>
-<h3 align="center">Soy Desarrollador Javascript Front-End</h3>
+<h3 align="center">Desarrollador Javascript Front-End, friki y linuxero</h3>
 
 - 🌱 Estoy aprendiendo **NodeJS, React y Express**
 
@@ -19,4 +19,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lacruzwebdev&show_icons=true&theme=tokyonight&locale=es&layout=compact" alt="lacruzwebdev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lacruzwebdev&show_icons=true&theme=tokyonight&locale=en" alt="lacruzwebdev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lacruzwebdev&show_icons=true&theme=tokyonight&locale=es" alt="lacruzwebdev" /></p>
