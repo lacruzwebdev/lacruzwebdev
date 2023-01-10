@@ -7,7 +7,7 @@
 
 - 📫 ¡Contáctame! **hola@lacruzwedev.com**
 
-- 🐧 I use Arch btw
+- <img src="https://raw.githubusercontent.com/unixporn/distro-icons/71c205b588a9ea021705867ebfccbd859a196192/SVG/arch.svg" alt="Arch Linux" width="10" height="10"/> I use Arch btw
 
 <h3 align="left">Dónde encontrarme:</h3>
 <p align="left">
