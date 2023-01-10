@@ -3,7 +3,7 @@
 
 - 🌱 Estoy aprendiendo **NodeJS, React y Express**
 
--⚙️ Proyecto actual: Webapp para adoptar animales
+- ⚙️ Proyecto actual: Webapp para adoptar animales
 
 - 👨‍💻 Mi portfolio [https://lacruzwebdev.com](https://lacruzwebdev.com)
 
