@@ -7,7 +7,7 @@
 
 - 📫 ¡Contáctame! **hola@lacruzwedev.com**
 
-- <img src="https://raw.githubusercontent.com/unixporn/distro-icons/71c205b588a9ea021705867ebfccbd859a196192/SVG/arch.svg" alt="Arch Linux" width="16" height="16"/> I use Arch btw
+- <a href="https://archlinux.org"><img src="https://raw.githubusercontent.com/unixporn/distro-icons/71c205b588a9ea021705867ebfccbd859a196192/SVG/arch.svg" alt="Arch Linux" width="20" height="20"/></a> I use Arch btw
 
 <h3 align="left">Dónde encontrarme:</h3>
 <p align="left">
