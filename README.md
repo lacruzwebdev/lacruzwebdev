@@ -1,7 +1,7 @@
 <h1 align="center">¡Hey 👋! Soy Nacho</h1>
 <h3 align="center">Desarrollador Javascript Front-End, friki y linuxero</h3>
 
-- 🌱 Estoy aprendiendo **NodeJS, React y Express**
+- 🌱 Estoy aprendiendo **Express y NextJS**
 
 - ⚙️ Proyecto actual: Webapp para adoptar animales
 
