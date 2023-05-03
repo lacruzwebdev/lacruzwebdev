@@ -1,5 +1,5 @@
 <h1 align="center">¡Hey 👋! Soy Nacho</h1>
-<h3 align="center">Desarrollador Javascript Front-End, friki y linuxero</h3>
+<h3 align="center">Front-End developer en constante desarrollo, friki y linuxero</h3>
 
 - 🌱 Estoy aprendiendo **NextJS & Prisma**
 
