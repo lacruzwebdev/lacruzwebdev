@@ -9,8 +9,6 @@
 
 - 📫 ¡Contáctame! **hola@lacruzwedev.com**
 
-- <a href="https://archlinux.org"><img src="https://raw.githubusercontent.com/unixporn/distro-icons/71c205b588a9ea021705867ebfccbd859a196192/SVG/arch.svg" alt="Arch Linux" width="20" height="20"/></a> I use Arch btw
-
 <h3 align="left">Dónde encontrarme:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ignacio-lacruz-ba018a22b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ignacio-lacruz-ba018a22b" height="30" width="40" /></a>
