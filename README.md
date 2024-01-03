@@ -1,10 +1,6 @@
 <h1 align="center">¡Hey 👋! Soy Nacho</h1>
 <h3 align="center">Front-End developer en constante desarrollo, friki y linuxero</h3>
 
-- 🌱 Estoy aprendiendo **NextJS & Prisma**
-
-- ⚙️ Proyecto actual: Webapp para adoptar animales
-
 - 👨‍💻 Mi portfolio [https://lacruzwebdev.com](https://lacruzwebdev.com)
 
 - 📫 ¡Contáctame! **hola@lacruzwedev.com**
