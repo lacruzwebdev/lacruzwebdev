@@ -1,4 +1,4 @@
-<h1 align="center">¡Hey 👋! Soy Nacho</h1>
+<h1 align="center">¡Hey 👋! Soy Ignacio</h1>
 <h3 align="center">Front-End developer en constante desarrollo, friki y linuxero</h3>
 
 - 👨‍💻 Mi portfolio [https://lacruzwebdev.com](https://lacruzwebdev.com)
